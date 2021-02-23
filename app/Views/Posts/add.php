@@ -1,7 +1,3 @@
-<?php
-
-use Denis303\ReCaptcha\Config\ReCaptcha2;
-?>
 <?= $this->extend("base"); ?>
 
 <?= $this->section("title") ?>Add a Message<?= $this->endSection() ?>
