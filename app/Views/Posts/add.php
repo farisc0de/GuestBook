@@ -8,9 +8,6 @@
 
 <div class="form-group">
     <input type="text" name="full_name" value="<?= old("full_name"); ?>" class="form-control" placeholder="Full Name" required>
-    <div class="invalid-feedback">
-        Please Enter Your Name.
-    </div>
 </div>
 
 <div class="form-group">
